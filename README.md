@@ -6,12 +6,6 @@ GeminiScope is an AI-powered tool designed to help students, researchers, and kn
 
 ---
 
-## 🚀 Demo
-
-🔗 [Demo Video](https://your-demo-video-link.com)
-
----
-
 ## 🧠 About the Project
 
 ### 📌 Purpose
