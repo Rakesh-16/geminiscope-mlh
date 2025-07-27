@@ -1,0 +1,24 @@
+# import os
+# from google import genai
+# from dotenv import load_dotenv
+
+# # Load API key from .env
+# load_dotenv()
+# API_KEY = os.getenv("GOOGLE_API_KEY")
+
+# def summarize_abstract(abstract):
+#     client = genai.Client(api_key=API_KEY)
+#     prompt = f"Summarize this research paper in 5 simple bullet points:\n\n{abstract}"
+#     response = client.models.generate_content(
+#         model="gemini-2.5-flash",
+#         contents=prompt
+#     )
+#     return response.text
+
+# if __name__ == "__main__":
+#     abstract = input("Paste your research paper abstract:\n")
+#     summary = summarize_abstract(abstract)
+#     print("\nSummary:\n", summary)
+#     # To save to file:
+#     with open("summary.txt", "w", encoding="utf-8") as f:
+#         f.write(summary)
