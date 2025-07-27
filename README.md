@@ -29,6 +29,3 @@ GeminiScope transforms complex research into digestible insights. Whether you're
 - Clean, minimal interface  
 - No login required
 
----
-
-## 📦 Folder Structure
